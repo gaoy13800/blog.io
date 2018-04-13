@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "gaoy" # 你的名字
-      header-img: "img/index1.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/index1.jpeg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
