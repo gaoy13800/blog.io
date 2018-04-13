@@ -1,0 +1,16 @@
+---
+layout: post
+title: 我的第一篇博客
+date: 2018-4-13
+categories: blog
+tags: [第一篇,start]
+description: 每天都是新的开始。
+---
+
+时间才是检验的良药。
+
+今天开始我的正式博客开始更新了，以后的技术、随笔都会这里更新。
+
+要么不做，要么凑活
+
+
