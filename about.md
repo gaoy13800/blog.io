@@ -1,11 +1,15 @@
 ---
 layout: page
-title: "About"
-description: "你的博客描述 " 
+title: "关于"
+description: "自我Desc" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+> 我是高杨，一名程序员，我一直在持续学习的路上。
+
+## 一名普通的IT菜鸟
+
+
 
 
 
