@@ -13,10 +13,10 @@ header-img: "img/img_pro.jpeg"
 
 * laravel 基于dingo和jwt搭建的稳定的高效的项目有多个。 多数为公司线上项目不便于开源
 但是存在base project 已开放。
-github地址:[laravel pro](https://github.com/gaoy13800/laravel_pro)
+**github地址**:[laravel pro](https://github.com/gaoy13800/laravel_pro)
 
 * thinkPhp 原生5.0搭建的脚手架，测试完成，restful api已测通，跨域问题已解决
-github地址:[think_php_pro](https://github.com/gaoy13800/thinkPhp_pro)
+**github地址**:[think_php_pro](https://github.com/gaoy13800/thinkPhp_pro)
 
 * yii2.0框架稍微玩过一下
 
@@ -33,13 +33,13 @@ github地址:[think_php_pro](https://github.com/gaoy13800/thinkPhp_pro)
 项目编写的本身意义在于多方交互，开启tcp、udp的服务端，开放websocket的服务端及建立一个web服务器。
 接受redis的普通订阅和过期key订阅并处理。项目平滑重启，内存定时检测
  
-* peenet 代码地址 [go_Peenet](https://github.com/gaoy13800/peenet)
+* peenet **github地址** [go_Peenet](https://github.com/gaoy13800/peenet)
 * simLock 模拟硬件批量连接
 为模拟上千并发量的硬件客户端编写的测试工具，同时模拟千个以上的客户端保持长连接并进行实施交互和日志记录监控
 服务器的压力及并发处理能力。
-* simLock 代码地址 [go_simLock](https://github.com/gaoy13800/simslateLock)
+* simLock **github地址** [go_simLock](https://github.com/gaoy13800/simslateLock)
 * Taonet 支持Rpc协议，充分应用于golang的interface，struct，method，指针，以及它的招牌特性Goroutine
-* Taonet 代码地址[go_Taonet](https://github.com/gaoy13800/Taonet)
+* Taonet **github地址**[go_Taonet](https://github.com/gaoy13800/Taonet)
 
 
 ### python pro
@@ -52,7 +52,7 @@ github地址:[think_php_pro](https://github.com/gaoy13800/thinkPhp_pro)
 * xpath css html解析器
 * 异步调用
 * scrapy mysql 使用
-* github 地址:[weather](https://github.com/gaoy13800/weather)
+* **github地址**:[weather](https://github.com/gaoy13800/weather)
 
 
 #### music_163 爬取网易云音乐歌手所有专辑的热门评论
@@ -61,7 +61,7 @@ github地址:[think_php_pro](https://github.com/gaoy13800/thinkPhp_pro)
 * lxml html解析器
 * selenium 使用
 * 爬取网易云音乐歌手歌曲的评论
-* github 代码地址[music_163](https://github.com/gaoy13800/music_163)
+* **github地址**[music_163](https://github.com/gaoy13800/music_163)
 
 #### 爬取知乎热门提问及评论
 #### 爬取校花网热度较高图片
