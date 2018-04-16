@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "关于"
+title: "about"
 description: "自我Desc" 
 header-img: "img/about.jpg"
 ---
@@ -8,6 +8,8 @@ header-img: "img/about.jpg"
 > 我是高杨，一名程序员，我一直在持续学习的路上。
 
 ## 一名普通的IT菜鸟
+
+梦想还是有的，万一实现了呢。
 
 
 
