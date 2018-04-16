@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 学习MarkDown
-date:2018-04-16
+date: 2018-04-16
 categories: blog
-tags:[md,markdown,study]
+tags: [md,markdown,study]
 description: 对md语法的学习，及应用
 ---
 ## markdown官方释义
