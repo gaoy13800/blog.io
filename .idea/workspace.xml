@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d73f3f8-d1b2-466b-81a7-595e82e657f8" name="Default" comment="分享到微信">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_mdimg/0417_cbianyi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2018-04-17-computer-systems.md" />
+    <list default="true" id="4d73f3f8-d1b2-466b-81a7-595e82e657f8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2018-04-17-computer-systems.md" afterPath="$PROJECT_DIR$/_posts/2018-04-17-computer-systems.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -39,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-04-17-computer-systems.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="590">
-                <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+              <first_editor relative-caret-position="490">
+                <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -191,7 +190,7 @@
       <workItem from="1523792172308" duration="1307000" />
       <workItem from="1523846269034" duration="9191000" />
       <workItem from="1523880286139" duration="4253000" />
-      <workItem from="1523933995075" duration="4617000" />
+      <workItem from="1523933995075" duration="5076000" />
     </task>
     <task id="LOCAL-00001" summary="更改描述">
       <created>1523602482676</created>
@@ -333,11 +332,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523934854058</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="new post">
+      <created>1523945754251</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1523945754251</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21786000" />
+    <option name="totallyTimeSpent" value="22245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
@@ -379,7 +385,8 @@
     <MESSAGE value="worker" />
     <MESSAGE value="about" />
     <MESSAGE value="分享到微信" />
-    <option name="LAST_COMMIT_MESSAGE" value="分享到微信" />
+    <MESSAGE value="new post" />
+    <option name="LAST_COMMIT_MESSAGE" value="new post" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -740,8 +747,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-04-17-computer-systems.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="590">
-            <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
+          <first_editor relative-caret-position="490">
+            <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
