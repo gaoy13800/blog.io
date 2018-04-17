@@ -27,8 +27,8 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="84" column="81" lean-forward="false" selection-start-line="84" selection-start-column="74" selection-end-line="84" selection-end-column="81" />
+            <state relative-caret-position="364">
+              <caret line="76" column="559" lean-forward="false" selection-start-line="76" selection-start-column="559" selection-end-line="76" selection-end-column="559" />
               <folding />
             </state>
           </provider>
@@ -164,7 +164,7 @@
       <workItem from="1523792172308" duration="1307000" />
       <workItem from="1523846269034" duration="9191000" />
       <workItem from="1523880286139" duration="4253000" />
-      <workItem from="1523933995075" duration="353000" />
+      <workItem from="1523933995075" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="更改描述">
       <created>1523602482676</created>
@@ -285,11 +285,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523934183592</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="分享到微信">
+      <created>1523934356180</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1523934356180</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17522000" />
+    <option name="totallyTimeSpent" value="17776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
@@ -330,7 +337,8 @@
     <MESSAGE value="404" />
     <MESSAGE value="worker" />
     <MESSAGE value="about" />
-    <option name="LAST_COMMIT_MESSAGE" value="about" />
+    <MESSAGE value="分享到微信" />
+    <option name="LAST_COMMIT_MESSAGE" value="分享到微信" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -672,8 +680,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="84" column="81" lean-forward="false" selection-start-line="84" selection-start-column="74" selection-end-line="84" selection-end-column="81" />
+        <state relative-caret-position="364">
+          <caret line="76" column="559" lean-forward="false" selection-start-line="76" selection-start-column="559" selection-end-line="76" selection-end-column="559" />
           <folding />
         </state>
       </provider>
