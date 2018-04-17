@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "文章归档"
+title: "summary"
 description: "文章归档"
 header-img: "img/orange.jpg"
 ---
