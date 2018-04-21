@@ -78,12 +78,12 @@ MongoServiceInfo = session.DB(DB_NAME)  //选择数据库
 
 
 
-引用mongo句柄
+#引用mongo句柄
 
 DocTable = Db.MongoServiceInfo.C("collectionName") //选择表/文档
 
 
-搜索文档的数据源
+#搜索文档的数据源
 
 1、
 
@@ -96,9 +96,9 @@ DocTable = Db.MongoServiceInfo.C("collectionName") //选择表/文档
   searchResult := make(map[string]interface{}) //声明一个map类型的结果集
 
   DocTable.Find(searchCondition).One(&searchResult) //执行筛选
-  
 
-新增数据很简单只需要给struct赋值即可
+
+#新增数据很简单只需要给struct赋值即可
 
 
 type insertData struct{
