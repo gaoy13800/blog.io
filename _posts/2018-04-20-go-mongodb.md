@@ -12,12 +12,9 @@ description: golang中使用mongodb
 
 > 这几天要用go开发一个集成到windows服务的服务，数据库用到的是mongodb，下面就是对mongodb在golang下的使用
 
-```
 MongoDB 是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。
 
 MongoDB 是一个介于关系数据库和非关系数据库之间的产品，是非关系数据库当中功能最丰富，最像关系数据库的。
-
-```
 
 
 
@@ -60,9 +57,9 @@ use local  选择数据库
 
 ## mongodb 在golang中的使用
 
-	在这次的项目中使用的一个很强大的第三方库 **"gopkg.in/mgo.v2/bson"**
+在这次的项目中使用的一个很强大的第三方库 **"gopkg.in/mgo.v2/bson"**
 
-	DB 类中 init初始化一个mongo句柄
+DB 类中 init初始化一个mongo句柄
 
 ```
 package Db
@@ -80,8 +77,6 @@ if err != nil {
 MongoServiceInfo = session.DB(DB_NAME)  //选择数据库
 
 
-
-***
 
 引用mongo句柄
 
