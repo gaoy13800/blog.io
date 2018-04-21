@@ -1,9 +1,9 @@
 ---
 layout: post
 title: golang mongodb使用
-date: 2018-04-16
+date: 2018-04-20
 categories: blog
-tags: [golang, mongodb,mgo]
+tags: [golang,mongodb,mgo]
 description: golang中使用mongodb
 ---
 
