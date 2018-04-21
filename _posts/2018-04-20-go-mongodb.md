@@ -99,19 +99,19 @@ DocTable = Db.MongoServiceInfo.C("collectionName") //选择表/文档
 
 
 2、 
-	使用 bson(gopkg.in/mgo.v2库)
+   使用 bson(gopkg.in/mgo.v2库)
 
-	在筛选两个条件时使用map发现并不能查出来，阅读mgo.v2源码时发现有一个struct也就是bson.D可以直接去筛选
+   在筛选两个条件时使用map发现并不能查出来，阅读mgo.v2源码时发现有一个struct也就是bson.D可以直接去筛选
 
-	使用方法:
-		Find
-		orderResultMap := make(map[string]interface{})
-		DocParking.Find(bson.D{{"carnumber", License}, {"orderstatus", 2}}).One(&orderResultMap)
+   使用方法:
+	Find
+	#orderResultMap := make(map[string]interface{})
+	#DocParking.Find(bson.D{{"carnumber", License}, {"orderstatus", 2}}).One(&orderResultMap)
 
-		Remove
-		DocWaitOrder.RemoveAll(bson.D{{"carnumber", License}, {"orderstatus", 2}})
+	Remove
+	#DocWaitOrder.RemoveAll(bson.D{{"carnumber", License}, {"orderstatus", 2}})
 
-insert 新增数据
+	insert 新增数据
 
 新增数据很简单只需要给struct赋值即可
 
