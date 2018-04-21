@@ -96,22 +96,7 @@ DocTable = Db.MongoServiceInfo.C("collectionName") //选择表/文档
   searchResult := make(map[string]interface{}) //声明一个map类型的结果集
 
   DocTable.Find(searchCondition).One(&searchResult) //执行筛选
-
-
-2、 
-   使用 bson(gopkg.in/mgo.v2库)
-
-   在筛选两个条件时使用map发现并不能查出来，阅读mgo.v2源码时发现有一个struct也就是bson.D可以直接去筛选
-
-   使用方法:
-	Find
-	#orderResultMap := make(map[string]interface{})
-	#DocParking.Find(bson.D{{"carnumber", License}, {"orderstatus", 2}}).One(&orderResultMap)
-
-	Remove
-	#DocWaitOrder.RemoveAll(bson.D{{"carnumber", License}, {"orderstatus", 2}})
-
-	insert 新增数据
+  
 
 新增数据很简单只需要给struct赋值即可
 
@@ -125,6 +110,8 @@ type insertData struct{
 DocTable.Insert(insertData)
 
 ```
+
+![oper_img](https://raw.githubusercontent.com/gaoy13800/gaoy13800.GitHub.io/master/_mdimg/0420_golang_mongo.png)
 
 
 ### windows 安装mongodb
