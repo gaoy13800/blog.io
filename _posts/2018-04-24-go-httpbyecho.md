@@ -38,7 +38,7 @@ description: golang之echo框架的使用，数据解析及拼装
     
 ####  echo 搭建
 
-![img_c_compile](https://raw.githubusercontent.com/gaoy13800/gaoy13800.GitHub.io/master/_mdimg/0424_echo1.png)
+![img_c_compile](https://raw.githubusercontent.com/gaoy13800/gaoy13800.GitHub.io/master/_mdimg/20180424_echo1.png)
 
     搭建echo就更简单了，完全自定义的web框架，只需要在使用的时候引用echo组件，然后搭建使用的
     路由。
@@ -91,5 +91,5 @@ description: golang之echo框架的使用，数据解析及拼装
 全局变量并且使用通用的struct method newClass 进行全局变量的增删改查即可
 
 
-![img_c_compile](https://raw.githubusercontent.com/gaoy13800/gaoy13800.GitHub.io/master/_mdimg/0424_echo2.png)
+![img_c_compile](https://raw.githubusercontent.com/gaoy13800/gaoy13800.GitHub.io/master/_mdimg/20180424_echo2.png)
    
