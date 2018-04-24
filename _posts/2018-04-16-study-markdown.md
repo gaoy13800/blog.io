@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 学习MarkDown--------------
+title: 学习MarkDown
 date: 2018-04-16
 categories: blog
 tags: [md,markdown,study]
