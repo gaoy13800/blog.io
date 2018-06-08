@@ -10,7 +10,7 @@ description: 人生苦短,我学python。
 
 ## 多版本的安装配置
 
-> 下载地址:  [python下载地址](www.python.org)
+> 下载地址:  [python下载地址](https://www.python.org)
 
 
 ### 1、 安装python2.x
