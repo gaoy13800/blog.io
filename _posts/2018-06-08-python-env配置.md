@@ -52,7 +52,7 @@ pip install virtualenv
 pip install virtualenvwrapper-win
 ```
 
-3、 设置WORK_HOME 变量
+3、 设置WORKON_HOME 变量
 
 这个环境变量设置的目录就是今后所有虚拟环境的安装目录
 
@@ -64,6 +64,29 @@ workon #查看所有安装的虚拟环境
 workon testenv #进入一个虚拟环境
 
 deactivate # 退出一个虚拟环境 
+
+```
+
+2018/06/09 新增
+
+pip install 提升下载速度 使用国内的豆瓣源
+
+```
+pip  install  -i  https://pypi.doubanio.com/simple/  --trusted-host pypi.doubanio.com  django
+
+# 也可将该地址写到pip的配置文件中
+# linux/mac用户将它命名为pip.conf, windows用户将它命名为pip.ini. 文件中写如下内容:
+
+[global]
+timeout = 60
+index-url = https://pypi.doubanio.com/simple
+
+#** 注意： **如果使用http链接，需要指定trusted-host参数
+
+[global]
+timeout = 60
+index-url = http://pypi.douban.com/simple
+trusted-host = pypi.douban.com
 
 ```
 
