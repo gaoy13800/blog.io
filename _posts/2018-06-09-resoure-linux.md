@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 干货集锦(1)
+title: 干货集锦(一)
 date: 2018-06-09
 categories: blog
 tags: [lnmp,docker安装,shell脚本]
