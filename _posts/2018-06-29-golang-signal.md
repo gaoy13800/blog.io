@@ -245,21 +245,15 @@ func ExitFunc()  {
 
 
 ```
-
 kill -USR1 pid 输出
 usr1 user defined signal 1
-
 kill -USR2 pid 
 usr2 user defined signal 2
-
 kill pid 
 退出 terminated
 开始退出...
 执行清理...
 结束退出...
-
-
-
 执行输出
 go run example-3.go
 进程启动...
@@ -286,6 +280,8 @@ sum: 17
 开始退出...
 执行清理...
 结束退出...
-
-
 ```
+
+### 请博客主人喝杯奶茶
+
+![pronhub](https://raw.githubusercontent.com/gaoy13800/gaoy13800.GitHub.io/master/img/weixinpay.png)
