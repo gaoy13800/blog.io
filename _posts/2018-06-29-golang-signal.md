@@ -11,8 +11,6 @@ description: Golang信号处理和优雅退出守护进程
 ### Golang中的信号处理
 
 
-```
-
 Line 1 信号名
 Line 2 对应的信号值，需要注意的是，有些信号名对应着3个信号值，这是因为这些信号值与平台相关
 Line 3 操作系统收到信号后的动作，Term表明默认动作为终止进程，Ign表明默认动作为忽略该信号，Core表明默认动作为终止进程同时输出core dump，Stop表明默认动作为停止进程。
@@ -53,8 +51,6 @@ SIGURG	16,23,21	Ign	有紧急数据到达Socket(4.2BSD)
 SIGVTALRM	26,26,28	Term	虚拟时钟信号(进程占用CPU的时间)(4.2BSD)
 SIGXCPU	24,24,30	Core	超过CPU时间资源限制(4.2BSD)
 SIGXFSZ	25,25,31	Core	超过文件大小资源限制(4.2BSD)
-
-```
 
 
 > kill pid 与 kill -9 pid区别
