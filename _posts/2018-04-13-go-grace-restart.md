@@ -37,3 +37,13 @@ description: 优雅的重启golang的服务。
 + 5、 新的子进程开**Aceept**
 + 6、 系统(类Unix)将新的请求转交新的子进程
 + 7、 旧的进程处理完所有的旧连接正常结束
+
+
+
+> 未完待续.....
+
+
+### 请博客主人喝杯奶茶
+
+![pronhub](https://raw.githubusercontent.com/gaoy13800/gaoy13800.GitHub.io/master/img/weixinpay.png)
+
